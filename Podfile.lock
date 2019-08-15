@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.1.0)
+  - SDAutoLayout (2.2.1)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Masonry
+  - SDAutoLayout
+  - YYModel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - SDAutoLayout
+    - YYModel
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: a4c5da86d2b0f32b4d009299c9a7ad5f24d5f268
+
+COCOAPODS: 1.6.2
